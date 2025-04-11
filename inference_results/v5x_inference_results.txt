@@ -1,0 +1,256 @@
+image 1/1: 640x480 1 person, 2 cars, 1 truck, 1 stop sign, 1 clock
+Speed: 6.2ms pre-process, 2184.1ms inference, 1.4ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 640x638 1 boat, 1 dog
+Speed: 4.6ms pre-process, 1015.5ms inference, 0.9ms NMS per image at shape (1, 3, 640, 640)
+image 1/1: 218x640 8 persons, 1 baseball bat, 2 baseball gloves
+Speed: 2.3ms pre-process, 392.1ms inference, 1.5ms NMS per image at shape (1, 3, 224, 640)
+image 1/1: 480x640 11 persons, 5 cups, 3 knifes, 1 pizza, 5 chairs, 2 dining tables
+Speed: 4.3ms pre-process, 752.3ms inference, 0.9ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 1 bed, 6 teddy bears
+Speed: 3.9ms pre-process, 702.6ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 426x640 5 persons, 1 umbrella, 4 wine glasss, 1 dining table, 1 clock
+Speed: 3.4ms pre-process, 669.3ms inference, 2.1ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 500x600 8 birds
+Speed: 4.7ms pre-process, 767.6ms inference, 1.5ms NMS per image at shape (1, 3, 544, 640)
+image 1/1: 640x481 1 person, 1 umbrella
+Speed: 4.2ms pre-process, 777.4ms inference, 1.0ms NMS per image at shape (1, 3, 640, 512)
+image 1/1: 480x640 4 persons, 1 baseball bat
+Speed: 3.7ms pre-process, 777.8ms inference, 1.1ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 424x640 3 cars, 2 airplanes, 1 truck
+Speed: 3.8ms pre-process, 652.3ms inference, 1.5ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 428x640 1 vase
+Speed: 3.5ms pre-process, 688.8ms inference, 0.8ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 640x480 1 person, 1 train, 1 stop sign
+Speed: 4.7ms pre-process, 710.5ms inference, 1.1ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 375x500 1 bottle, 1 bowl, 1 tv, 3 books, 2 teddy bears
+Speed: 4.4ms pre-process, 691.1ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 333x500 2 persons, 3 cars, 1 bus, 4 suitcases
+Speed: 3.9ms pre-process, 612.4ms inference, 1.4ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 640x427 5 persons, 3 skateboards
+Speed: 4.7ms pre-process, 598.7ms inference, 1.6ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 488x640 4 persons, 2 elephants
+Speed: 4.6ms pre-process, 687.9ms inference, 1.0ms NMS per image at shape (1, 3, 512, 640)
+image 1/1: 480x640 7 spoons, 14 bowls, 8 broccolis, 12 carrots, 1 dining table
+Speed: 3.5ms pre-process, 630.5ms inference, 2.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 600x600 1 dog, 2 teddy bears
+Speed: 7.3ms pre-process, 911.9ms inference, 1.4ms NMS per image at shape (1, 3, 640, 640)
+image 1/1: 427x640 1 fork, 1 cake
+Speed: 3.3ms pre-process, 640.8ms inference, 1.8ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 1 person, 2 kites
+Speed: 5.3ms pre-process, 653.3ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 484x640 11 persons, 1 airplane, 1 handbag
+Speed: 3.7ms pre-process, 675.1ms inference, 0.9ms NMS per image at shape (1, 3, 512, 640)
+image 1/1: 640x423 1 cup, 3 toothbrushs
+Speed: 3.2ms pre-process, 619.2ms inference, 1.2ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 425x640 1 zebra
+Speed: 4.9ms pre-process, 611.9ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 640x516 1 person, 1 tie
+Speed: 4.2ms pre-process, 761.1ms inference, 2.0ms NMS per image at shape (1, 3, 640, 544)
+image 1/1: 480x640 1 person, 1 backpack, 1 skis
+Speed: 7.1ms pre-process, 668.6ms inference, 1.5ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 495x500 1 dog, 1 skateboard
+Speed: 5.7ms pre-process, 890.5ms inference, 1.2ms NMS per image at shape (1, 3, 640, 640)
+image 1/1: 480x640 1 car, 1 dog, 1 frisbee
+Speed: 4.2ms pre-process, 670.5ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 426x640 8 cars, 1 train
+Speed: 4.6ms pre-process, 611.3ms inference, 1.5ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 640x427 3 zebras
+Speed: 3.9ms pre-process, 633.2ms inference, 1.0ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 427x640 1 person, 1 wine glass
+Speed: 3.3ms pre-process, 653.6ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 573x640 1 bottle, 1 bowl, 1 potted plant, 1 laptop, 2 ovens, 1 sink, 1 refrigerator, 1 clock, 3 vases
+Speed: 5.6ms pre-process, 869.7ms inference, 1.3ms NMS per image at shape (1, 3, 576, 640)
+image 1/1: 480x640 9 persons, 1 bicycle, 1 tennis racket
+Speed: 4.3ms pre-process, 726.9ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 640x427 2 persons, 1 motorcycle
+Speed: 4.1ms pre-process, 680.3ms inference, 1.1ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 500x333 1 person, 1 baseball glove
+Speed: 4.3ms pre-process, 632.3ms inference, 1.1ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 580x640 15 persons, 3 cell phones
+Speed: 5.5ms pre-process, 934.1ms inference, 1.1ms NMS per image at shape (1, 3, 608, 640)
+image 1/1: 389x640 1 person, 1 sports ball, 1 tennis racket
+Speed: 3.9ms pre-process, 607.8ms inference, 0.9ms NMS per image at shape (1, 3, 416, 640)
+image 1/1: 360x640 1 person, 1 tie, 1 cake
+Speed: 3.2ms pre-process, 496.4ms inference, 0.9ms NMS per image at shape (1, 3, 384, 640)
+image 1/1: 427x640 1 person, 3 knifes, 8 spoons, 1 microwave, 1 oven, 1 clock
+Speed: 3.0ms pre-process, 702.7ms inference, 1.5ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 640x480 1 toilet
+Speed: 3.9ms pre-process, 637.3ms inference, 0.9ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 427x640 1 bus
+Speed: 3.1ms pre-process, 552.9ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 375x500 5 persons, 4 skateboards
+Speed: 4.4ms pre-process, 591.0ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 640x565 1 person, 2 motorcycles
+Speed: 5.2ms pre-process, 782.0ms inference, 1.1ms NMS per image at shape (1, 3, 640, 576)
+image 1/1: 427x640 9 persons, 11 umbrellas, 3 handbags, 8 chairs
+Speed: 3.7ms pre-process, 661.1ms inference, 1.4ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 375x500 2 persons, 1 snowboard
+Speed: 3.6ms pre-process, 666.0ms inference, 1.4ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 640x480 2 bottles, 1 banana
+Speed: 4.1ms pre-process, 715.4ms inference, 1.1ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 480x640 3 cups, 1 fork, 2 bowls, 2 carrots
+Speed: 3.6ms pre-process, 667.4ms inference, 1.1ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 1 tv
+Speed: 4.3ms pre-process, 2074.4ms inference, 1.1ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 1 knife, 1 pizza
+Speed: 4.0ms pre-process, 667.4ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 327x640 2 persons, 2 handbags, 1 oven, 2 refrigerators, 1 clock
+Speed: 3.1ms pre-process, 494.9ms inference, 0.9ms NMS per image at shape (1, 3, 352, 640)
+image 1/1: 500x409 1 sink
+Speed: 4.7ms pre-process, 695.7ms inference, 1.0ms NMS per image at shape (1, 3, 640, 544)
+image 1/1: 446x640 4 persons, 1 frisbee
+Speed: 3.9ms pre-process, 629.1ms inference, 1.8ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 500x473 1 dog
+Speed: 7.9ms pre-process, 834.9ms inference, 1.0ms NMS per image at shape (1, 3, 640, 608)
+image 1/1: 428x640 12 persons, 6 kites
+Speed: 3.1ms pre-process, 572.8ms inference, 0.9ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 11 persons, 1 backpack, 1 tie
+Speed: 3.8ms pre-process, 606.1ms inference, 1.1ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 374x500 1 person, 2 giraffes
+Speed: 3.3ms pre-process, 585.6ms inference, 0.9ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 481x640 1 person, 3 benchs, 3 umbrellas, 1 cup, 1 knife, 1 spoon, 1 cake, 2 dining tables, 3 books
+Speed: 3.6ms pre-process, 657.1ms inference, 1.3ms NMS per image at shape (1, 3, 512, 640)
+image 1/1: 427x640 1 bear
+Speed: 3.6ms pre-process, 657.4ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 2 clocks
+Speed: 3.5ms pre-process, 669.7ms inference, 0.9ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 1 train, 2 potted plants
+Speed: 3.4ms pre-process, 626.6ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 6 knifes, 1 microwave, 1 oven, 3 books
+Speed: 3.9ms pre-process, 603.9ms inference, 1.1ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 425x640 1 airplane
+Speed: 3.5ms pre-process, 582.2ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 4 giraffes
+Speed: 4.8ms pre-process, 637.6ms inference, 0.8ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 406x640 6 persons, 1 sports ball, 1 baseball bat, 4 baseball gloves
+Speed: 3.9ms pre-process, 539.4ms inference, 1.3ms NMS per image at shape (1, 3, 416, 640)
+image 1/1: 480x640 1 person, 1 laptop, 1 cell phone
+Speed: 4.0ms pre-process, 651.8ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 427x640 6 elephants
+Speed: 4.2ms pre-process, 591.0ms inference, 2.2ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 2 bottles, 2 wine glasss, 3 cups, 1 pizza
+Speed: 3.9ms pre-process, 631.1ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 1 chair, 1 couch, 1 bed
+Speed: 3.4ms pre-process, 646.2ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 2 persons, 1 sports ball, 1 tennis racket
+Speed: 4.2ms pre-process, 647.6ms inference, 1.1ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 640x427 1 person, 1 bottle, 1 donut, 1 clock
+Speed: 3.5ms pre-process, 564.1ms inference, 1.0ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 491x640 3 persons, 1 car, 1 backpack, 2 ties, 1 cell phone, 1 book
+Speed: 4.1ms pre-process, 633.2ms inference, 1.2ms NMS per image at shape (1, 3, 512, 640)
+image 1/1: 640x480 2 pizzas
+Speed: 3.8ms pre-process, 630.1ms inference, 1.0ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 332x500 1 car, 2 traffic lights
+Speed: 3.4ms pre-process, 582.6ms inference, 0.9ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 3 persons, 3 buss, 1 truck, 1 backpack, 2 handbags
+Speed: 3.9ms pre-process, 639.6ms inference, 1.1ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 478x640 1 dog
+Speed: 4.4ms pre-process, 635.2ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 226x640 1 airplane
+Speed: 2.8ms pre-process, 379.5ms inference, 0.9ms NMS per image at shape (1, 3, 256, 640)
+image 1/1: 513x640 1 cat
+Speed: 5.3ms pre-process, 823.9ms inference, 1.2ms NMS per image at shape (1, 3, 544, 640)
+image 1/1: 426x640 1 spoon, 1 bowl, 2 broccolis, 12 carrots
+Speed: 3.7ms pre-process, 620.0ms inference, 1.2ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 407x640 1 cat, 1 couch, 1 potted plant, 2 remotes
+Speed: 3.6ms pre-process, 554.7ms inference, 1.0ms NMS per image at shape (1, 3, 416, 640)
+image 1/1: 640x480 5 persons, 1 handbag, 1 bottle, 3 cups, 1 couch, 1 potted plant, 1 remote
+Speed: 4.4ms pre-process, 620.8ms inference, 0.9ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 612x612 1 clock, 1 vase
+Speed: 5.0ms pre-process, 865.1ms inference, 1.2ms NMS per image at shape (1, 3, 640, 640)
+image 1/1: 480x640 1 person, 1 cup, 1 pizza, 2 chairs
+Speed: 4.1ms pre-process, 652.6ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 640x416 3 persons, 8 cups, 1 knife, 1 cake, 2 chairs, 1 dining table
+Speed: 3.5ms pre-process, 600.6ms inference, 1.0ms NMS per image at shape (1, 3, 640, 416)
+image 1/1: 640x426 3 boats
+Speed: 3.3ms pre-process, 562.1ms inference, 1.0ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 640x512 1 person, 1 bicycle, 1 motorcycle, 1 handbag
+Speed: 3.8ms pre-process, 706.6ms inference, 1.1ms NMS per image at shape (1, 3, 640, 512)
+image 1/1: 425x640 9 cars, 1 airplane, 3 trucks
+Speed: 3.9ms pre-process, 612.2ms inference, 1.1ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 1 sandwich, 3 hot dogs
+Speed: 3.8ms pre-process, 627.0ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 2 cups, 1 spoon, 1 bowl, 1 cake, 1 dining table
+Speed: 4.5ms pre-process, 627.5ms inference, 1.3ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 427x640 1 car, 1 truck
+Speed: 4.1ms pre-process, 578.0ms inference, 1.1ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 640x359 1 person, 1 tennis racket
+Speed: 3.3ms pre-process, 556.1ms inference, 1.1ms NMS per image at shape (1, 3, 640, 384)
+image 1/1: 611x640 1 dog, 1 frisbee
+Speed: 4.5ms pre-process, 835.6ms inference, 1.3ms NMS per image at shape (1, 3, 640, 640)
+image 1/1: 480x640 (no detections)
+Speed: 4.3ms pre-process, 669.5ms inference, 0.5ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 416x640 6 persons, 1 boat, 2 benchs, 1 dog
+Speed: 3.6ms pre-process, 569.0ms inference, 1.6ms NMS per image at shape (1, 3, 416, 640)
+image 1/1: 480x640 1 person, 1 bench
+Speed: 4.1ms pre-process, 697.4ms inference, 2.8ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 536x640 2 persons, 1 tie
+Speed: 5.9ms pre-process, 694.1ms inference, 1.2ms NMS per image at shape (1, 3, 544, 640)
+image 1/1: 640x480 11 persons, 3 sports balls
+Speed: 4.5ms pre-process, 676.0ms inference, 2.2ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 640x591 2 elephants
+Speed: 5.2ms pre-process, 821.0ms inference, 1.1ms NMS per image at shape (1, 3, 640, 608)
+image 1/1: 427x640 1 bottle, 1 bowl, 1 microwave, 1 oven, 1 refrigerator, 1 clock
+Speed: 4.2ms pre-process, 2284.5ms inference, 1.6ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 640x427 2 giraffes
+Speed: 3.9ms pre-process, 605.0ms inference, 1.0ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 313x500 4 teddy bears
+Speed: 3.7ms pre-process, 537.9ms inference, 1.0ms NMS per image at shape (1, 3, 416, 640)
+image 1/1: 481x640 1 person, 2 frisbees
+Speed: 3.6ms pre-process, 670.4ms inference, 1.9ms NMS per image at shape (1, 3, 512, 640)
+image 1/1: 640x427 2 persons, 1 suitcase
+Speed: 4.0ms pre-process, 581.4ms inference, 1.3ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 428x640 5 persons, 2 bicycles, 1 bus
+Speed: 3.7ms pre-process, 555.6ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 640x428 1 bottle, 1 wine glass, 2 chairs, 1 dining table
+Speed: 3.1ms pre-process, 565.9ms inference, 0.8ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 640x480 1 person, 1 couch, 3 potted plants, 1 remote
+Speed: 3.7ms pre-process, 635.0ms inference, 1.2ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 426x640 5 persons, 1 bicycle, 1 car, 1 dog
+Speed: 3.6ms pre-process, 593.5ms inference, 1.2ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 (no detections)
+Speed: 3.6ms pre-process, 592.1ms inference, 0.7ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 4 persons, 1 boat, 8 birds
+Speed: 4.5ms pre-process, 711.8ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 4 persons, 1 cat, 1 remote
+Speed: 3.9ms pre-process, 615.2ms inference, 1.1ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 312x460 1 potted plant, 1 toilet, 1 sink
+Speed: 4.0ms pre-process, 570.7ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 248x640 7 elephants
+Speed: 2.7ms pre-process, 362.3ms inference, 1.2ms NMS per image at shape (1, 3, 256, 640)
+image 1/1: 428x640 2 persons, 4 snowboards
+Speed: 3.3ms pre-process, 621.5ms inference, 1.1ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 480x640 16 donuts
+Speed: 3.9ms pre-process, 650.4ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 500x375 1 person, 1 teddy bear
+Speed: 3.8ms pre-process, 616.8ms inference, 1.2ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 640x360 1 bed
+Speed: 3.0ms pre-process, 495.0ms inference, 1.0ms NMS per image at shape (1, 3, 640, 384)
+image 1/1: 480x640 14 persons, 1 bicycle, 1 motorcycle, 4 trucks, 4 traffic lights, 1 backpack, 1 handbag
+Speed: 3.6ms pre-process, 630.9ms inference, 1.5ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 640x480 1 person, 1 broccoli
+Speed: 3.4ms pre-process, 606.5ms inference, 1.0ms NMS per image at shape (1, 3, 640, 480)
+image 1/1: 480x640 1 person
+Speed: 3.3ms pre-process, 642.2ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 427x640 1 motorcycle
+Speed: 3.8ms pre-process, 560.9ms inference, 1.1ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 426x640 2 giraffes
+Speed: 3.9ms pre-process, 574.4ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 427x640 1 car, 1 cat
+Speed: 3.3ms pre-process, 554.2ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
+image 1/1: 336x448 4 persons, 2 handbags, 2 chairs, 2 cell phones, 1 clock
+Speed: 3.4ms pre-process, 629.4ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 3 bowls, 4 oranges, 1 broccoli
+Speed: 3.7ms pre-process, 591.0ms inference, 1.0ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 480x640 2 sinks, 3 toothbrushs
+Speed: 3.3ms pre-process, 644.7ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 640x446 1 couch, 6 books, 1 clock
+Speed: 3.2ms pre-process, 577.6ms inference, 1.0ms NMS per image at shape (1, 3, 640, 448)
+image 1/1: 480x640 13 bottles, 8 wine glasss, 6 cups, 1 bowl, 1 chair, 1 dining table, 1 microwave, 1 refrigerator
+Speed: 3.4ms pre-process, 619.2ms inference, 1.2ms NMS per image at shape (1, 3, 480, 640)
+image 1/1: 500x381 5 persons, 3 horses, 1 potted plant
+Speed: 3.8ms pre-process, 660.0ms inference, 1.1ms NMS per image at shape (1, 3, 640, 512)
+image 1/1: 640x520 2 persons, 1 tennis racket, 23 chairs
+Speed: 3.9ms pre-process, 697.1ms inference, 1.2ms NMS per image at shape (1, 3, 640, 544)
+image 1/1: 427x640 11 persons, 1 sports ball, 1 baseball glove
+Speed: 4.0ms pre-process, 611.3ms inference, 1.0ms NMS per image at shape (1, 3, 448, 640)
